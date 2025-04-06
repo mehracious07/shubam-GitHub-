@@ -1,2 +1,4 @@
 this is branch b3
-sanjay singh mehara ji jo han third.txt ko edit kr gye h
+sanjay singh mehara ji jo han third.txt ko edit kr gye h yha se  bhai pull karwainge
+ab bhai yha se push karwainge
+
